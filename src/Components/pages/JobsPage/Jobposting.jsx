@@ -1,6 +1,6 @@
 import React from 'react'
 import Filters from '../jobcomponents/Filters'
-import JobCenter from '../jobcomponents/jobCenter'
+import JobCenter from '../jobcomponents/JobCenter'
 
 const Jobposting = () => {
   return (
